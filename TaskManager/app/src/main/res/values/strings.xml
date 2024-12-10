@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="create_task">Crear Tarea</string>
+    <string name="edit_task">Editar Tarea</string>
+    <string name="name_task">Nombre de la tarea</string>
+    <string name="name">Nombre</string>
+    <string name="detail_task">Detalle de la tarea</string>
+    <string name="detail">Detalle</string>
+    <string name="priority">Prioridad</string>
+    <string name="due_date">Fecha de vencimiento</string>
+    <string name="empty_task">No tiene ninguna tarea</string>
+    <string name="search_by_name">Buscar por nombre</string>
+    <string name="no_results">Sin resultados</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+</resources>
